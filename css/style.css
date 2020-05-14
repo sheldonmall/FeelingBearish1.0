@@ -1,0 +1,49 @@
+/* My first CSS style file */
+
+h1 {
+  font-size:28px;
+  color:#eee;
+  text-align:center;
+  margin: 0;
+  margin-bottom: 30px;
+  border-style: solid;
+  border-color: black;
+  padding: 15px 0;
+}
+h2 {
+  font-size:24px;    
+}
+body {
+  background-color:#efeee7;
+  font:Georgia,"Times New Roman",Times,serif;
+  color:#333333;
+  padding: 0%;
+  margin-top: 0cm;
+}
+header {
+    background-color:#333333;
+}
+a {
+  color: #d21034;    
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+#bio-image {
+    float: left; /* made the items appear at the same level, than below */
+    width: 200px;
+    margin-right: 20px; /* pushed the item on right a little further away */
+}
+#main-bio {
+    float: left; /* made the items appear at the same level, than below */
+    width: 70%;
+}
+#contact-info {
+    float: left; /* made the items appear at the same level, than below */
+    width: 30%;
+}
+/*
+
+
+*/
